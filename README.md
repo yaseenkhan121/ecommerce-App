@@ -1,16 +1,37 @@
-# ecom_app
+# 🛒 Flutter Ecommerce App  
 
-A new Flutter project.
+A **modern eCommerce mobile application** built with **Flutter & Firebase**, offering a seamless and secure shopping experience with real-time data synchronization.  
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue)  
+![Firebase](https://img.shields.io/badge/Firebase-Backend-orange)  
+![License](https://img.shields.io/badge/License-MIT-green)  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features  
+- 📱 **Modern & Responsive UI/UX**  
+- 🔍 **Browse Products** by categories  
+- 🛍️ **Add to Cart & Wishlist**  
+- 🧾 **Detailed Product Pages** with images, description, and pricing  
+- 🔐 **User Authentication** (Firebase Auth – Email/Password, Google Sign-In)  
+- ☁️ **Cloud Firestore Integration** for real-time product and order data  
+- 📦 **Order Management** – place & track orders  
+- 💾 **Local Storage** support for cart & user session   
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack  
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **Backend:** Firebase (Auth, Firestore, Cloud Messaging)  
+- **State Management:** Provider / Riverpod / GetX  
+- **Local Storage:** Hive / SharedPreferences  
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the repository  
+```bash
+git clone https://github.com/yaseenkhan121/ecommerce_app.git
+cd ecommerce_app
